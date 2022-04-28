@@ -79,7 +79,7 @@ export class ShopComponent implements OnInit {
       this.shopParams.pageNumber=event;
       this.getproducts();
     }
-    
+
   }
   onSearch(){
     this.shopParams.search=this.searchTerm.nativeElement.value;
