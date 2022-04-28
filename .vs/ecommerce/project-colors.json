@@ -5,7 +5,17 @@
       "ProjectGuid": "ec7a3080-f878-4bf5-a67d-b3881ddb215a",
       "DisplayName": "API",
       "ColorIndex": 0
+    },
+    "708e8acc-bbfd-48f9-b00e-5471537f0b15": {
+      "ProjectGuid": "708e8acc-bbfd-48f9-b00e-5471537f0b15",
+      "DisplayName": "Core",
+      "ColorIndex": 1
+    },
+    "68fe5232-1e70-4fe2-85e1-45b762046a3f": {
+      "ProjectGuid": "68fe5232-1e70-4fe2-85e1-45b762046a3f",
+      "DisplayName": "Infrastructure",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 3
 }
